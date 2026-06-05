@@ -1,4 +1,3 @@
-Perfecto, Santiago 🙌. Aquí te dejo el **README completo en formato uniforme** (Markdown), listo para copy-paste como `README.md`. Está pensado para cualquier tema (hotel, proyectos, tareas), pero cumple sí o sí con lo que piden: SPA con Vite, JSON Server, LocalStorage y CRUD.
 
 ---
 
